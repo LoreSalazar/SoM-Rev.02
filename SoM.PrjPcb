@@ -411,6 +411,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLRZONLW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SoM\Design Rule Check - SoM.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
